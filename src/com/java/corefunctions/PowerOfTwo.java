@@ -24,7 +24,7 @@ public class PowerOfTwo
 		if( number>=0 && number<=31)
 		{
 			/* (Math)inbuilt function to calculate power
-			 * (int) type of data to be input
+			 * (Int) type of data to be input
 			 * */ 
 			int power = (int) Math.pow(2, number);
 			System.out.println("Power of 2 ^ "+number+" is "+power);
