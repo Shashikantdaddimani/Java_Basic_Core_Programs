@@ -7,10 +7,10 @@ import java.util.Scanner;
 //Main class
 public class WindChill 
 {
-
+	// program execution starts from main method
 	public static void main(String[] args) 
 	{
-		// program execution starts from main method
+		//Taking user input using Scanner object
 		Scanner input = new Scanner(System.in);
 		System.out.println("Enter temperature in Farhanite: ");
 		
